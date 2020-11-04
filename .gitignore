@@ -8,7 +8,7 @@
 # Tools
 .vscode
 gin-bin
-rvbr-2020-hackathon-time-3-backend
+rvbr-hackathon-2020
 myapp
 
 # Test binary, built with `go test -c`
